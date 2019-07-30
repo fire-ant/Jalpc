@@ -10,10 +10,10 @@
       Longitude 2013/2014/2015 and Electric Picnic 2013/2014, Irelands largest Outdoor Music Festival"
     i18n: company_a_desc
   date:
-    detail: July 2011
+    detail: July 2011 - Present
     i18n: company_a_date
   job:
-    detail: Freelance Audio Engineer
+    detail: Freelance Audio Engineer/Consultant
     i18n: company_a_job
   icon: fa-plus-square
   present: true
@@ -63,7 +63,7 @@
       Accelerating the Adoption of DevOps Practises (Agile/Lean, CI/CD, IAC), utilising modern/emerging software development methodologies"
     i18n: company_c_desc
   date:
-    detail: Nov 2017
+    detail: Feb 2019
     i18n: company_d_date
   job:
     detail: Cloud/Site Reliability Engeineer
