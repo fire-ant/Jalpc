@@ -1,30 +1,72 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: PHG/Wackiki Event Solutions
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail:
+      "FOH, Monitors and Stagetech for live events ranging 200 - 100,000 audience capacity
+      major festival and large-scale live theatre experience. Highlight events include 
+      Longitude 2013/2014/2015 and Electric Picnic 2013/2014, Irelands largest Outdoor Music Festival"
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: July 2011
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Freelance Audio Engineer
     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
+    detail: Operations Project Manager
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: 
+      "Project Management, Network Engineering, Unix/Linux Administration, Client/Customer
+      Service and Hardware/ Systems Design"
     i18n: company_b_desc
   date:
     detail: Jun. 2015
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Operations Project Manager/Network Analyst
     i18n: company_b_job
   icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Metaswitch Networks
+    i18n: company_c_desc
+  desc:
+    detail: 
+      "IP Network design and troubleshooting 
+      Systems Planning / Provisioning / Commissioning, Automation 
+      (Web application development, Python, Linux, Ansible)"
+    i18n: company_c_desc
+  date:
+    detail: Nov 2017
+    i18n: company_c_date
+  job:
+    detail: Networks/DevOps Engeineer
+    i18n: company_c_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Chef Software
+    i18n: company_d_desc
+  desc:
+    detail: 
+      "Designing, securing and deploying cloud infrastructure (AWS/GCP/Azure), 
+      Prescribing best practise utilising the chef software toolset (Chef Infra/Chef InSpec/Chef Habitat), 
+      Accelerating the Adoption of DevOps Practises (Agile/Lean, CI/CD, IAC), utilising modern/emerging software development methodologies"
+    i18n: company_c_desc
+  date:
+    detail: Nov 2017
+    i18n: company_d_date
+  job:
+    detail: Cloud/Site Reliability Engeineer
+    i18n: company_d_job
+  icon: fa-plus-square
+  present: true
