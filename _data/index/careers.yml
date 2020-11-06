@@ -61,12 +61,28 @@
       "Designing, securing and deploying cloud infrastructure (AWS/GCP/Azure), 
       Prescribing best practise utilising the chef software toolset (Chef Infra/Chef InSpec/Chef Habitat), 
       Accelerating the Adoption of DevOps Practises (Agile/Lean, CI/CD, IAC), utilising modern/emerging software development methodologies"
-    i18n: company_c_desc
+    i18n: company_d_desc
   date:
     detail: Feb 2019
     i18n: company_d_date
   job:
     detail: Cloud/Site Reliability Engeineer
     i18n: company_d_job
+  icon: fa-plus-square
+  present: true
+  
+- name:
+    detail: WeaveWorks
+    i18n: company_e_desc
+  desc:
+    detail: 
+      "Building Kubernetes wtih GitOps methodologies, using the founding principes of DevOps through the practise of SRE to transform organisations as they journey towards the cloud native future"
+    i18n: company_e_desc
+  date:
+    detail: Nov 2020
+    i18n: company_e_date
+  job:
+    detail: Site Reliability Architect/Consultant
+    i18n: company_e_job
   icon: fa-plus-square
   present: true
